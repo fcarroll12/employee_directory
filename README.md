@@ -11,15 +11,14 @@ You must install inquirer and MySql2 to begin your command line application. Aft
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+ Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![alt text](Assets/Images/screenshot.png)
     ```
 
 ## Credits
 
-GitHub: 
+GitHub: https://github.com/fcarroll12/employees_directory
 Link to walkthrough video: https://drive.google.com/file/d/1USUGhHMmDoluzwo3BQukEvp30yeIokFR/view?usp=sharing
